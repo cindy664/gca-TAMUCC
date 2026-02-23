@@ -1,4 +1,129 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Texas A&M University-Corpus Christi",
+    "abbreviation": "TAMUCC",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": null,
+    "primaryBrandColor": null,
+    "buttonColor": null,
+    "buttonTextColor": null,
+    "logo": null,
+    "cobranded_logo": null,
+    "partner_id": "001Rd00000UN8WkIAL",
+    "programName": "TAMU-CC Global Career Accelerator",
+    "termsandConditionsPolicy": "https://isc.tamucc.edu/terms-and-conditions",
+    "registrationMessage": "Registration is now open.",
+    "credits": "3 TAMUCC credits",
+    "startDate": "June 1",
+    "endDate": "August 7"
+  },
+  {
+    "item": "about",
+    "schoolname": "Texas A&M University-Corpus Christi",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviation": "TAMUCC",
+    "phone": "(361) 866-5006",
+    "credits": "3 TAMUCC credits",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "3 TAMUCC credits",
+    "abbreviation": "TAMUCC",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Texas A&M University-Corpus Christi",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "3 TAMUCC credits",
+    "abbreviation": "TAMUCC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTL 3390",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 1",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 10"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Texas A&M University-Corpus Christi",
+    "trackTitle": "Coding for Web Track",
+    "credits": "3 TAMUCC credits",
+    "abbreviation": "TAMUCC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTL 3390",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 1",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 10"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Texas A&M University-Corpus Christi",
+    "trackTitle": "Data Analytics Track",
+    "credits": "3 TAMUCC credits",
+    "abbreviation": "TAMUCC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTL 3390",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 1",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 10"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Texas A&M University-Corpus Christi",
+    "trackTitle": "Coding for Data Track",
+    "credits": "3 TAMUCC credits",
+    "abbreviation": "TAMUCC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTL 3390",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 1",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 10"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Texas A&M University-Corpus Christi",
+    "trackTitle": "Career Rotation Track",
+    "credits": "3 TAMUCC credits",
+    "abbreviation": "TAMUCC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTL 3390",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 1",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 10"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "TAMU-CC Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(361) 866-5006",
+    "abbreviation": "TAMUCC"
+  },
+  {
+    "item": "begin",
+    "credits": "3 TAMUCC credits",
+    "abbreviation": "TAMUCC",
+    "phone": "(361) 866-5006"
+  }
+]
